@@ -18,7 +18,7 @@ build:
     - gcloud version #194.0.0
     - jfrog --version #1.14.0
     - kubectl version --client #1.9.0
-    - packer.io version #1.2.2
+    - packer version #1.2.2
     - terraform --version #0.11.5
     - apt search azure-cli
     - az --version #2.0.31
